@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.keras
+training_checkpoints
+lfw.tgz
